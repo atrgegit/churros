@@ -1,4 +1,4 @@
-# churros
+# churros light
 Diététique
 
 Stylish meal
